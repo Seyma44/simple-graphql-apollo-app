@@ -20,6 +20,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+
+    /* Module Aliases */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
